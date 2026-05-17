@@ -25,4 +25,4 @@ Install requirements:
 
 ```bash
 pip install pygame
-python fire_robot_simulation.py
+then run: python fire_robot_simulation.py
