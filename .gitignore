@@ -1,0 +1,12 @@
+# IDE Settings (JetBrains/PyCharm)
+.idea/
+
+# Python Virtual Environments
+.venv/
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# Jupyter Notebook Autosaves
+.ipynb_checkpoints/
